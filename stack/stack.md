@@ -1,0 +1,15 @@
+- [x] 有效的括号：https://leetcode.com/problems/valid-parentheses/
+- [x] 简化路径：https://leetcode.com/problems/simplify-path/
+- [ ] 柱状图中最大的矩形：https://leetcode.com/problems/largest-rectangle-in-histogram/
+- [ ] 最大矩形：https://leetcode.com/problems/maximal-rectangle/
+- [ ] 最小栈：https://leetcode.com/problems/min-stack/
+- [ ] 基本计算器：https://leetcode.com/problems/basic-calculator/
+- [ ] 基本计算器 II：https://leetcode.com/problems/basic-calculator-ii/
+- [ ] 字符串解码：https://leetcode.com/problems/decode-string/
+- [ ] 移掉 K 位数字：https://leetcode.com/problems/remove-k-digits/
+- [ ] 下一个更大元素 II：https://leetcode.com/problems/next-greater-element-ii/
+- [ ] 每日温度：https://leetcode.com/problems/daily-temperatures/
+- [ ] 删除字符串中的所有相邻重复项：https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+- [ ] 剑指 Offer 06. 从尾到头打印链表：https://leetcode.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
+- [ ] 剑指 Offer 30. 包含min函数的栈：https://leetcode.com/problems/bao-han-minhan-shu-de-zhan-lcof/
+- [ ] 剑指 Offer 31. 栈的压入、弹出序列：https://leetcode.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
